@@ -1,7 +1,8 @@
 baseURL: "https://chobobdev.github.io/"
-languageCode: "en"
+languageCode: "en-us"
 title: "chobobdev"
-enableRobotsTXT: true
+
+
 module:
   # uncomment line below for temporary local development of module
   # replacements: "github.com/CaiJimmy/hugo-theme-stack/v3 -> ../../hugo-theme-stack"
@@ -11,17 +12,15 @@ module:
 
 params:
   widgets:
-    homepage:
-        - type: search
-        - type: archives
-          params:
-              limit: 5
-        - type: categories
-          params:
-              limit: 10
-        - type: tag-cloud
-          params:
-              limit: 10
+      homepage:
+          - type: search
+          - type: categories
+            params:
+                limit: 10
+          - type: tag-cloud
+            params:
+                limit: 10
+  
 menu:
     main:
         - identifier: home
@@ -38,9 +37,3 @@ menu:
           params:
             icon: user
         
-        - identifier: search
-          name: Search
-          url: /Search
-          weight: -80
-          params:
-            icon: search
