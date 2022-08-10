@@ -28,4 +28,4 @@ jobs:
           external_repository: chobobdev/chobobdev.github.io # Pages 远程仓库 
           publish_dir: ""
           keep_files: false # remove existing files
-          publish_branch: gh-pages  # deploying branch
+          publish_branch: main # deploying branch
