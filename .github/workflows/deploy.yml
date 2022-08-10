@@ -1,27 +1,25 @@
-name: Deploy Hugo Site to Github Pages on Master Branch
-
-on:
-  push:
-    branches:
-      - main
-
+name: CI
+on: push
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v1  # v2 does not have submodules option now
-       # with:
-       #   submodules: true
+      - name: Git checkout
+        uses: actions/checkout@v2
 
-      - name: Setup Hugo
+      - name: Update theme
+        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
+        run: git submodule update --init --recursive
+
+      - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "0.64.0"
 
-          # extended: true
-
       - name: Build
-        run: hugo
+        # remove --minify tag if you do not need it
+        # docs: https://gohugo.io/hugo-pipes/minification/
+        run: hugo 
         
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
