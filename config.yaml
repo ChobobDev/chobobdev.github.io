@@ -11,6 +11,12 @@ module:
       disable: false
 
 params:
+  sidebar:
+      subtitle: "Backend Developer"
+      avatar:
+          enabled: true
+          local: true
+          src: /img/avatar.png
   widgets:
       homepage:
           - type: search
