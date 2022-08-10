@@ -20,14 +20,14 @@ params:
           - type: tag-cloud
             params:
                 limit: 10
-   comments:
-        enabled: true
-        provider: utterances
+  comments:
+      enabled: true
+      provider: utterances
 
-        utterances:
-          repo: chobobdev/chobobdev.github.io
-          issueTerm: pathname
-          label:
+      utterances:
+        repo: chobobdev/chobobdev.github.io
+        issueTerm: pathname
+        label:
 
   
 menu:
