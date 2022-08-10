@@ -29,11 +29,3 @@ menu:
           weight: -100
           params:
             icon: home
-
-        - identifier: about
-          name: About
-          url: /about
-          weight: -90
-          params:
-            icon: user
-        
