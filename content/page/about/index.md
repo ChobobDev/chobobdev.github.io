@@ -3,6 +3,7 @@ title: "About"
 description: 
 date: 2022-08-11T05:56:12+09:00
 license: 
+comments: false
 menu:
     main:
         weight: -90
