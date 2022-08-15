@@ -67,3 +67,10 @@ menu:
           url: https://github.com/Chobobdev
           params:
               icon: brand-github
+
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://www.linkedin.com/in/seongbin-cho-120641170/
+          params:
+              icon: linkedin
+
