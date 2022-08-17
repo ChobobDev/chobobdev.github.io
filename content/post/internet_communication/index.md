@@ -9,7 +9,7 @@ hidden: false
 comments: true
 draft: false
 tags: ["HTTP","Spring","김영한"]
-category: "HTTP"
+categories: "HTTP"
 ---
 
 # 1 인터넷에서 컴퓨터 둘은 어떻게 통신을 할까?
