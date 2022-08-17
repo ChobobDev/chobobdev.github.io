@@ -42,6 +42,8 @@ params:
           - type: tag-cloud
             params:
                 limit: 10
+      page:
+          - type: toc
   comments:
       enabled: true
       provider: utterances
@@ -50,6 +52,13 @@ params:
         repo: chobobdev/chobobdev.github.io
         issueTerm: pathname
         label:
+  article:
+        math: false
+        toc: true
+        readingTime: true
+        license:
+            enabled: false
+            default: Licensed under CC BY-NC-SA 4.0
 
   
 menu:
