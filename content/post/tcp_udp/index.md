@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: false
+draft: true
 series: ["모든 개발자를 위한 HTTP 웹 기본 지식"]
 tags: ["HTTP","Spring","김영한"]
 categories: "HTTP"
