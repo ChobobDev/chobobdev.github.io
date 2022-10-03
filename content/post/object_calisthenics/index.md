@@ -5,9 +5,9 @@ date: 2022-10-02T00:07:23+09:00
 image: 
 math: 
 license: 
-hidden: false
+hidden: true
 comments: true
-draft: false
+draft: true
 series: ["OOP"]
 tags: ["OOP","Java"]
 categories: "OOP"
