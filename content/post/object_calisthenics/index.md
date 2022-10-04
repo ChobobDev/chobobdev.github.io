@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: true
+draft: false
 series: ["OOP"]
 tags: ["OOP","Java"]
 categories: "OOP"
@@ -40,8 +40,7 @@ class Coordinate {
     }
 }
 ```
-```java
-```
+
 
 ### 2. Don’t use the else keyword
 > else 예약어를 사용하지 않는다.
