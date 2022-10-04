@@ -5,7 +5,7 @@ date: 2022-10-02T00:07:23+09:00
 image: 
 math: 
 license: 
-hidden: true
+hidden: false
 comments: true
 draft: true
 series: ["OOP"]
@@ -45,17 +45,24 @@ class Coordinate {
 
 ### 2. Don’t use the else keyword
 > else 예약어를 사용하지 않는다.
+
 ### 3. Wrap all primitives and strings
 > 모든 원시값과 문자열을 포장한다.
+
 ### 4. Use only one dot per line
 > 한줄에 점을 하나만 찍는다.
+
 ### 5. Don’t abbreviate
 > 축약하지 않는다.
+
 ### 6. Keep all entities small
 > 모든 Entity들을 작게 유지한다
+
 ### 7. Don’t use any classes with more than two instance variables
 > 2개 이상의 인스턴스 변수를 가진 클래스를 쓰지 않는다.
+
 ### 8. Use first-class collections
 > 일급 Collection을 쓴다.
+
 ### 9. Don’t use any getters/setters/properties
 > getter/setter/properties를 사용하지 않는다.
