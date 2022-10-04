@@ -8,6 +8,7 @@ license:
 hidden: false
 comments: true
 draft: false
+slug: "object_calisthenics"
 series: ["OOP"]
 tags: ["OOP","Java"]
 categories: "OOP"

@@ -11,6 +11,7 @@ draft: false
 series: ["모든 개발자를 위한 HTTP 웹 기본 지식"]
 tags: ["HTTP","Spring","김영한"]
 categories: "HTTP"
+slug: "internet_protocol"
 ---
 
 복잡한 인터넷망에서 Message를 보내야 한다면 최소한의 규칙이 있어야 한다. 이 규칙은 인터넷 프로토콜(IP)를 통하여 이루어진다.

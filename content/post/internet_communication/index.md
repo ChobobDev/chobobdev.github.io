@@ -11,6 +11,7 @@ draft: false
 series: ["모든 개발자를 위한 HTTP 웹 기본 지식"]
 tags: ["HTTP","Spring","김영한"]
 categories: "HTTP"
+slug: "internet_communication"
 ---
 
 ## 1 인터넷에서 컴퓨터 둘은 어떻게 통신을 할까?
