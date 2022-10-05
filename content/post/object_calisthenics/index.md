@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: false
+draft: true
 slug: "object_calisthenics"
 series: ["OOP"]
 tags: ["OOP","Java"]
