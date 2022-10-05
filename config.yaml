@@ -83,3 +83,6 @@ menu:
           params:
               icon: linkedin
 
+markup:
+  highlight: 
+    noClasses: false
