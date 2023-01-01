@@ -2,7 +2,7 @@
 title: "개발자를 꿈꾸는 학생이 돌아보는 한해"
 description: "2022년을 돌아보며"
 date: 2023-01-01T19:39:44+09:00
-image: 
+image: "bg.jpg"
 math: 
 license: 
 hidden: false
