@@ -2,12 +2,14 @@
 title: "[생각] 개발자의 소통법"
 description: 
 date: 2023-02-16T23:29:20+09:00
-image: 
+image: "communication.jpg"
 math: 
 license: 
 hidden: false
 comments: true
 draft: false
+series: ["회고록"]
+tags: ["회고","생각","Toss","소통"]
 slug: "communication_cost"
 ---
 
