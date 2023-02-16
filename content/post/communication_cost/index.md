@@ -1,6 +1,6 @@
 ---
 title: "[생각] 개발자의 소통법"
-description: 
+description: "소통 비용을 배우며"
 date: 2023-02-16T23:29:20+09:00
 image: "communication.jpg"
 math: 
