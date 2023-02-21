@@ -10,6 +10,7 @@ comments: true
 draft: false
 series: ["회고록"]
 tags: ["회고","생각","Toss","소통"]
+categories: "회고"
 slug: "communication_cost"
 ---
 
