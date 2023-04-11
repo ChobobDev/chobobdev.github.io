@@ -8,4 +8,5 @@ license:
 hidden: false
 comments: true
 draft: true
+slug:
 ---
