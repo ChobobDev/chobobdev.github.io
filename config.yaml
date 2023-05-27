@@ -19,7 +19,7 @@ DefaultContentLanguage: en
 googleAnalytics: G-F6BNXT2DDH
 
 params:
-  favicon: /icons/favicon.ico
+  favicon: /favicon.ico
   footer:
       since: 2022
       customText: Shark attack
