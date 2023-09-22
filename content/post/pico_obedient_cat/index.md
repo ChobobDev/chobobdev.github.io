@@ -1,6 +1,6 @@
 ---
-title: "[Pico CTF] Obedient Cat 풀이"
-description: 
+title: "[picoCTF] Obedient Cat 풀이"
+description: "picoCTF - Obedient Cat 은 어떻게 풀어야 할까?"
 date: 2023-09-22T14:05:38+09:00
 image: "ctf_0.png" 
 math: 
