@@ -8,5 +8,5 @@ license:
 hidden: false
 comments: true
 draft: true
-slug:
+slug: "{{ replace .Name "-" " " | title }}"
 ---
