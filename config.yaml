@@ -31,7 +31,7 @@ params:
       avatar:
           enabled: true
           local: true
-          src: /img/avatar.png
+          src: /img/avatar_2023.png
   widgets:
       homepage:
           - type: search
