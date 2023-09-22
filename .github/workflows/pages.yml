@@ -1,4 +1,3 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
@@ -73,6 +72,10 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Check Commit Message
+        id: check_commit
+        run: echo "::set-output name=deploy::$(git log --format=%B -n 1 ${{ github.sha }} | grep -c '^deploy')"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        if: steps.check_commit.outputs.deploy == '1'
