@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: true
+draft: false
 series: ["CTF"]
 tags: ["picoCTF","CTF"]
 categories: "CTF"
