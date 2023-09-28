@@ -8,7 +8,7 @@ license:
 hidden: false
 comments: true
 series: ["CTF"]
-tags: ["picoCTF","CTF"]
+tags: ["picoCTF","CTF","General Skills"]
 categories: "CTF"
 draft: false
 slug: "pico_obedient_cat"

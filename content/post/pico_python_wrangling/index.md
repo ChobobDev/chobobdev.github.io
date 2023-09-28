@@ -9,7 +9,7 @@ hidden: false
 comments: true
 draft: false
 series: ["CTF"]
-tags: ["picoCTF","CTF"]
+tags: ["picoCTF","CTF","General Skills"]
 categories: "CTF"
 slug: "Pico_python_wrangling"
 ---
