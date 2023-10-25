@@ -8,9 +8,9 @@ license:
 hidden: false
 comments: true
 draft: false
-series: ["K8s"]
-tags: ["K8s","Container","Orchestration"]
-categories: "K8s"
+series: ["DevOps"]
+tags: ["DevOps","K8s","Container","Orchestration"]
+categories: "DevOps"
 slug: "K8s"
 ---
 
