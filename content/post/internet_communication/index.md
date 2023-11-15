@@ -2,7 +2,7 @@
 title: "[모든 개발자를 위한 HTTP 웹 기본 지식]1.1 인터넷 통신"
 description: 
 date: 2022-08-16T14:41:42+09:00
-image: 
+image: "thumbnail.png" 
 math: 
 license: 
 hidden: false

@@ -2,7 +2,7 @@
 title: "[모든 개발자를 위한 HTTP 웹 기본 지식]1.2인터넷 프로토콜(IP)"
 description: 
 date: 2022-08-17T11:34:53+09:00
-image: 
+image: "thumbnail.png" 
 math: 
 license: 
 hidden: false

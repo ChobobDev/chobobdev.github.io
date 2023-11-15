@@ -2,7 +2,7 @@
 title: "[모든 개발자를 위한 HTTP 웹 기본 지식]1.3 TCP 와 UDP"
 description: 
 date: 2022-08-18T16:12:25+09:00
-image: 
+image: "thumbnail.png" 
 math: 
 license: 
 hidden: false
